@@ -40,4 +40,4 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 [A Dream Within a Dream](poem.html)
 ![Some Mathematical Flowers](roses.png)
-[Useful Equations](eqs.md)
+![Useful Equations](eqs.pdf)
