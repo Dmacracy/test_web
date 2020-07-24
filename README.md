@@ -8,4 +8,4 @@
 ![Dice4](4.png)
 ![Dice5](5.png)
 ![Dice6](6.png)
-![Useful Equations](eqs.pdf)
+[Useful Equations](eqs.pdf)
